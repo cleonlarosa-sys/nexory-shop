@@ -65,7 +65,7 @@ export const PRODUCTS = [
     desc: "Carga rapida de 100w de potencia para tu celular, laptop o tablet. Pantalla Led con indicador de bateria + cable",
     price: "S/ 189",
     oldPrice: "S/ 219",
-    image: "<a href="https://ibb.co/8Dsfj59Q"><img src="https://i.ibb.co/N6CJLjKG/Power-Bank-UGREEN-20000m-Ah-100-W-Carga-Super-Rapida-Portatil-PB720-3.png" alt="Power-Bank-UGREEN-20000m-Ah-100-W-Carga-Super-Rapida-Portatil-PB720-3" border="0" /></a>",
+    image: "https://i.ibb.co/N6CJLjKG/Power-Bank-UGREEN-20000m-Ah-100-W-Carga-Super-Rapida-Portatil-PB720-3.png",
     features: ["100W PD", "Pantalla Led"],
   },
   {
