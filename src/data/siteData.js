@@ -6,7 +6,7 @@
 export const SITE = {
   name: "Nexory Shop",
   tagline: "Tech Accessories Premium",
-  whatsapp: "51987654321", // ← Reemplaza con tu número real
+  whatsapp: "51958131469", // ← Reemplaza con tu número real
   whatsappMsg: "Hola! Vi su catálogo en nexoryshop.pe y me gustaría hacer un pedido.",
   email: "ventas@nexoryshop.pe",
   instagram: "https://instagram.com/nexoryshop",
