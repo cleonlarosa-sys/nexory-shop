@@ -5,7 +5,7 @@
 
 export const SITE = {
   name: "Nexory Shop",
-  tagline: "Tech Accessories Premium",
+  tagline: "Accessories Premium",
   whatsapp: "51958131469", // ← Reemplaza con tu número real
   whatsappMsg: "Hola! Vi su catálogo en nexoryshop.pe y me gustaría hacer un pedido.",
   email: "ventas@nexoryshop.pe",
@@ -16,13 +16,13 @@ export const SITE = {
 
 export const HERO = {
   badge: "🇵🇪 Tienda oficial en Perú",
-  title: "Accesorios tech",
+  title: "Accesorios",
   titleHighlight: "que cambian tu día",
-  subtitle: "Cables, audífonos, cargadores y más — marcas premium como Ugreen, Baseus y Hoco. Entrega rápida a todo Lima.",
+  subtitle: "Cables, audífonos, cargadores, power banks y más. Entrega rápida a todo Lima.",
   cta: "Ver catálogo completo",
   ctaSecondary: "Pedir por WhatsApp",
   stats: [
-    { value: "500+", label: "Productos disponibles" },
+    { value: "100+", label: "Productos disponibles" },
     { value: "4.9★", label: "Satisfacción de clientes" },
     { value: "24h", label: "Entrega en Lima" },
   ],
