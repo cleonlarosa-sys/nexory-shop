@@ -65,7 +65,7 @@ export const PRODUCTS = [
     desc: "Carga rapida de 100w de potencia para tu celular, laptop o tablet. Pantalla Led con indicador de bateria + cable",
     price: "S/ 189",
     oldPrice: "S/ 219",
-    image: "https://imgur.com/a/Ve5eww5",
+    image: "https://i.imgur.com/xZyaM63.png",
     features: ["100W PD", "Pantalla Led"],
   },
   {
