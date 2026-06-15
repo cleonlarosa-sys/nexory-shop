@@ -2,7 +2,7 @@
 // NEXORY SHOP — Datos del sitio
 // Edita este archivo para personalizar todo el contenido
 // ============================================================
-
+ 
 export const SITE = {
   name: "Nexory Shop",
   tagline: "Accessories Premium",
