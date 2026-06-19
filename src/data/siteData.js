@@ -143,7 +143,7 @@ export const WHY_US = [
   { icon: "Award", title: "Marcas 100% originales", desc: "Solo distribuimos productos certificados de marcas reconocidas mundialmente." },
   { icon: "Truck", title: "Logística propia en Lima", desc: "Flota de delivery propio para garantizar tus pedidos a tiempo." },
   { icon: "RefreshCw", title: "Cambios sin burocracia", desc: "¿Algo no está bien? Te lo resolvemos en 24 horas, sin vueltas." },
-  { icon: "Users", title: "+1,200 clientes satisfechos", desc: "Empresas y personas naturales confían en Nexory para sus accesorios tech." },
+  { icon: "Users", title: "+300 clientes satisfechos", desc: "Empresas y personas naturales confían en Nexory para sus accesorios tech." },
 ];
 
 export const TESTIMONIALS = [
@@ -171,7 +171,7 @@ export const TESTIMONIALS = [
   {
     name: "Diego P.",
     role: "Gamer & streamer",
-    text: "Los audífonos Baseus tienen un sonido brutal para el precio. Cancelación de ruido real. Muy buena compra.",
+    text: "Los audífonos ugreen tienen un sonido brutal para el precio. Cancelación de ruido real. Muy buena compra.",
     stars: 5,
     avatar: "DP",
   },
