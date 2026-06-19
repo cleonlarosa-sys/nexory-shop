@@ -73,11 +73,11 @@ export function WhyUs() {
 
                 <div className="pt-6 border-t border-white/8 grid grid-cols-2 gap-4">
                   <div className="text-center p-4 bg-white/4 rounded-2xl">
-                    <div className="text-3xl font-black text-white mb-1">1,200+</div>
+                    <div className="text-3xl font-black text-white mb-1">300+</div>
                     <div className="text-xs text-slate-text">Clientes activos</div>
                   </div>
                   <div className="text-center p-4 bg-white/4 rounded-2xl">
-                    <div className="text-3xl font-black text-white mb-1">500+</div>
+                    <div className="text-3xl font-black text-white mb-1">50+</div>
                     <div className="text-xs text-slate-text">SKUs disponibles</div>
                   </div>
                 </div>
