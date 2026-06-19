@@ -1,7 +1,7 @@
 import { ArrowRight, MessageCircle, ChevronDown } from "lucide-react";
 import { HERO, SITE } from "../data/siteData";
 
-const BRANDS = ["Ugreen", "Baseus", "Hoco", "Xiaomi", "Benfei"];
+const BRANDS = ["Cables", "Audífonos", "Cargadores", "Powerbanks", "Accesorios"];
 
 export default function Hero() {
   const waLink = `https://wa.me/${SITE.whatsapp}?text=${encodeURIComponent(SITE.whatsappMsg)}`;
@@ -76,7 +76,7 @@ export default function Hero() {
           {/* Brands bar */}
           <div className="border-t border-white/8 pt-8">
             <p className="text-xs text-slate-text/60 uppercase tracking-widest mb-4 font-medium">
-              Marcas que distribuimos
+              Lo que encontrarás en Nexory
             </p>
             <div className="flex flex-wrap justify-center gap-3 sm:gap-6">
               {BRANDS.map((brand) => (
