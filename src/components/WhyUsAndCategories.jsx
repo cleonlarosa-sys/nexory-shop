@@ -107,7 +107,7 @@ export function Categories() {
             <span className="text-gradient">necesitas</span>
           </h2>
           <p className="text-slate-text max-w-xl mx-auto">
-            Más de 500 productos en 6 categorías. Desde cables hasta accesorios de audio premium.
+            Variedad de productos en 6 categorías. Desde cables hasta accesorios de audio premium.
           </p>
         </div>
 
