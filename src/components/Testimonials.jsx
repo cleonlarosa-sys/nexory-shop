@@ -27,7 +27,7 @@ export default function Testimonials() {
             <span className="text-gradient">nuestros clientes</span>
           </h2>
           <p className="text-slate-text max-w-md mx-auto">
-            Más de 1,200 clientes confían en Nexory. Aquí algunos comentarios reales.
+            Más de 300 clientes confían en Nexory. Aquí algunos comentarios reales.
           </p>
         </div>
 
